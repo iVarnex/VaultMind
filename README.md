@@ -41,7 +41,7 @@ To get a local copy up and running, follow these steps.
 
 1.  Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/iVarnex/VaultMind.git
     ```
 2.  Navigate to the project directory:
     ```sh
